@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Folasayo-Samuel
-- 👀 I’m interested in Software Development and Technical Writing 
+- 👀 I’m interested in Software Development and Technical Writing. I love building WebAPIs 
 - 🌱 I’m currently learning C#, ASP.NET CORE, ASP.NET CORE MVC
 - 💞️ I’m looking to collaborate on any C# projects.
 - 📫 How to reach me with my mail or via LinkedIn: folasayosamuelolayemi@gmail.com / https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
