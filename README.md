@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Technical Writing. I love building secure ASP.NET CORE WEBAPIs 
 - 🌱 I’m currently learning C#, ASP.NET CORE, ASP.NET CORE MVC
 - 💞️ I’m looking to collaborate on any C# projects.
-- 📫 How to reach me via mail or via LinkedIn: folasayosamuelolayemi@gmail.com / https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
+- 📫 You can reach me via mail or via LinkedIn: folasayosamuelolayemi@gmail.com || https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
 
 <!---
 Folasayo-Samuel/Folasayo-Samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
