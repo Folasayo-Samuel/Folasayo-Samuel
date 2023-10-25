@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Folasayo Samuel. I'm a backend developer with over 3 years of professional experience, I am skilled in a variety of programming languages and frameworks, including C#, JavaScript, NodeJS, ASP.NET Core Web API, MongoDB and MS SQL. I have a strong background in building and scaling web applications, and I am passionate about developing clean, efficient code. In my current role, I have worked on a number of successful projects, including a real-time chat platform and a cloud-based analytics tool. In the future, I hope to continue growing my skills and making a positive impact as a backend developer.
-- 👀 I’m interested in Software Development and Technical Writing. I love building secure APIs with ASP.NET Core && NodeJS
+- 👋 Hi, I’m Folasayo Samuel. As a Developer Advocate, I bring a unique blend of experience in community management and technical writing, with a proven track record of cultivating engaged online communities and creating user-centric content. With a strategic mindset, I excel at developing and executing community initiatives that drive brand growth and foster inclusive environments.
+
+Crafting compelling narratives, user guides, and documentation is my forte, allowing me to effectively communicate complex concepts and empower users with valuable resources. I have a keen eye for detail and possess the ability to analyze data to optimize community engagement and measure the impact of initiatives.
+
+Being a collaborative team player, I thrive on building relationships and facilitating meaningful connections within communities. My strong communication skills enable me to effectively engage with diverse audiences and bridge the gap between technical concepts and user understanding.
+
+Now, as a Developer Advocate, I am excited to leverage my combined expertise in community management and technical writing to make a meaningful contribution. Let's connect and discuss how my skills can elevate your organization's community presence and drive success through authentic engagement and impactful content.
+
+- 👀 I’m interested in anything that deals with Software product Advocating and Technical Writing. 
 <!-- - 🌱 I’m currently learning C#, ASP.NET CORE Web API, ASP.NET CORE MVC
 - 💞️ I’m looking to collaborate on any C# projects. -->
-- 📫 You can reach me via mail or via LinkedIn: folasayosamuelolayemi@gmail.com || https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
+- 📫 You can reach me via mail or LinkedIn: folasayosamuelolayemi@gmail.com || https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
 
 <!---
 Folasayo-Samuel/Folasayo-Samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
