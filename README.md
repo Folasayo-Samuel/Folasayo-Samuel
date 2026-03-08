@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Folasayo Samuel Olayemi, a Product Manager passionate about turning ideas into scalable digital products that solve real problems. With over four years of experience in fintech and platform innovation, he has led initiatives improving transaction efficiency, partner engagement, and user experience across Africa and the UK. He currently leads product initiatives at SeerBit and writes a LinkedIn newsletter with over 7,000 subscribers, where he shares insights on product leadership, strategy, and growth.
-<!-- - 🌱 I’m currently learning C#, ASP.NET CORE Web API, ASP.NET CORE MVC
-- 💞️ I’m looking to collaborate on any C# projects. -->
-- 📫 You can reach me via mail or LinkedIn: folasayosamuelolayemi@gmail.com || https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
+👋 Hi, I’m Folasayo Samuel Olayemi.
 
-<!---
-Folasayo-Samuel/Folasayo-Samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Product Engineer, Software Engineer, and Developer Relations professional passionate about building developer-focused products, improving developer experience (DX), and documenting systems that help engineers build faster.
+
+Since 2020, I’ve worked across backend engineering, product engineering, technical documentation, and developer advocacy — contributing to platforms that power fintech infrastructure, developer tools, and scalable APIs used by businesses and developers across Africa and beyond.
+
+My work sits at the intersection of **engineering, product, and community**. I enjoy designing backend systems, writing clean APIs, documenting complex architectures, and helping developer communities understand and adopt new technologies.
+
+Some ways I contribute to the ecosystem:
+- Building and maintaining backend services and APIs (Node.js, TypeScript, Kotlin)
+- Writing technical documentation, engineering guides, and architecture explanations
+- Creating developer tutorials and educational resources
+- Supporting developer communities through talks, mentorship, and content
+- Advocating for better developer experience (DX) in products and platforms
+- Bridging the gap between engineering teams and developer communities
+
+I’ve worked with engineering teams across startups and developer platforms, contributing to fintech infrastructure, developer tooling, and technical education initiatives.
+
+Beyond engineering, I actively share knowledge through technical writing, developer education, and community engagement to help more developers grow in the ecosystem.
+
+📫 Reach me:  
+Email: folasayosamuelolayemi@gmail.com  
+LinkedIn: https://www.linkedin.com/in/folasayo-samuel-olayemi-57955b148/
